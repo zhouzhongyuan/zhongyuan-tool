@@ -1,0 +1,21 @@
+{
+  "name": "Zhongyuan Tools",
+  "description": "Zhongyuan's tolls.",
+  "version": "1.0",
+  "permissions": [
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "icons": {
+    "16": "icon427.png",
+    "48": "icon427.png",
+    "128": "icon427.png"
+  },
+  "browser_action": {
+    "default_title": "Zhongyuan Tools",
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 2
+}
